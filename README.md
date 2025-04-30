@@ -50,8 +50,9 @@ Clinics or community blood donation camps
 ## 👨‍💻 Author
 
 Henil Patel
+Meet Patel
 
-Computer Science Student
+Computer Science Students
 
 CHARUSAT University
 
