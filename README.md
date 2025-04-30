@@ -49,8 +49,8 @@ Clinics or community blood donation camps
 
 ## 👨‍💻 Author
 
-Henil Patel
-Meet Patel
+Henil Patel | 
+ Meet Patel
 
 Computer Science Students
 
