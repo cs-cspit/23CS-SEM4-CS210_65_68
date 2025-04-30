@@ -1,59 +1,59 @@
-# 23CS-SEM4-CS210_65_68
+# BLOOD-BANK-SYSTEM
+A modern Blood Bank Management System with donor/patient registration, blood donation tracking, request handling, and admin approval. Features a responsive frontend with advanced UI/UX. Ideal for hospitals, clinics, and academic projects.
 
-📌 Project Overview:
+## 🚀 Features
 
-The Blood Bank Management System is a web-based platform designed to manage blood donations, patient requests, and stock updates efficiently. The system provides role-based access for Donors, Patients, and Admins, ensuring smooth operations in blood donation and distribution.
+- 🧑‍💻 Donor & Patient Registration
+- 🩸 Blood Donation Tracking
+- 📦 Blood Inventory Management
+- 🔍 Blood Availability Check
+- 📝 Blood Request System
+- ✅ Admin Approval for Requests
+- 📊 Dynamic Dashboard for Donors
+- 📱 Responsive UI with modern glassmorphism and animations
+- 🔐 Secure Authentication (coming soon in backend)
 
-Features & Functionalities:
+## 🛠️ Tech Stack
 
- 1.Donor Module:
+Frontend: HTML5, CSS3, JavaScript (Vanilla)
 
- 2.Register/Login as a donor
+UI/UX: Glassmorphism, Flex/Grid Layouts, Responsive Design
 
- 3.Donate Blood (Fill form & submit details)
+Backend: Coming Soon (MongoDB + Node.js / Python Flask)
 
- 4.View Donation History
-
- 
-
-
-Patient Module:
-
- 1.Search for Blood Availability
-
- 2.Request Blood (Submit request)
-
- 3.View Request History & Status
+Database: MongoDB (planned)
 
 
+## 🧩 Upcoming Features
+
+📄 Request Approval & Rejection Workflow
+
+📬 Notification System
+
+📈 Blood Usage Reports & Analytics
+
+🧾 Full Backend Integration with MongoDB
+
+🔐 Authentication System (JWT or sessions)
 
 
- Admin Module:
+## 📌 Use Cases
+Hospital blood bank systems
 
- 1.Manage Blood Stock (Add, Update, Delete)
+Emergency blood request platforms
 
- 2.Approve/Reject Blood Requests
+College projects and academic demonstrations
 
- 3.View Donor & Patient Records
-
-
-
-
- System Functionalities:
-
- 1.Real-time Data Updates (MongoDB)
-
- 2.Role-based Access (Donor, Patient, Admin)
-
- 3.Stock Management & Notifications
+Clinics or community blood donation camps
 
 
+## 👨‍💻 Author
 
+Henil Patel
 
-💻 Tech Stack:
+Computer Science Student
 
- Frontend: HTML, CSS, JavaScript,Figma
+CHARUSAT University
 
- Backend: Node.js
-
- Database: MongoDB
+📧 patelhenil0109@gmail.com
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
